@@ -1,28 +1,39 @@
-#rsschool-cv
+# rsschool-cv
 
-#George Koloidi
+# George Koloidi 
 
 
 
-Contacts
+## Contacts
+----
+
 Location: Turkey, Antalya
+
 Phone: +7 (918) 204-28-88
+
 Email: battleaxe@bk.ru
+
 GitHub: MaDKnighT404
 
-About Me
+
+
+## About Me
+----
 A year ago, I realized that I could not live without programming.
 And every day I am more and more convinced that I made the right choice when I started self-learning in the Front-end field.
 
-Skills
+## Skills
+----
 HTML
 CSS/SASS
 Git
 JavaScript (Basic)
 
 
-Code Example
-// reverse any number
+## Code Example
+----
+Task: *reverse number*
+```
 function reverse (num) {
 	let str = num + '';
 	sign = '';
@@ -31,21 +42,29 @@ function reverse (num) {
 	str = str.slice(1);
 	}
 	return console.log(+(sign + str.toString().split('').reverse().join('')));
-}``
+}
  reverse(-250)
-
-Work Experience
+```
+## Work Experience
+----
 Just educating
 
-Education
+## Education
+----
 University: Sochi Institute of Economics and Information Technology, System engineer.
 
-Courses:
+## Courses:
+----
 Udemy JavaScript
+
 JavaScript https://learn.javascript.ru/
+
 GOIT HTML CSS
+
 Many video courses on YouTube
 
-Languages:
+## Languages:
+----
 Russian - Native
+
 English - A2 

@@ -5,7 +5,7 @@
 
 
 ## Contacts
-----
+
 
 Location: Turkey, Antalya
 
@@ -18,12 +18,12 @@ GitHub: MaDKnighT404
 
 
 ## About Me
-----
+
 A year ago, I realized that I could not live without programming.
 And every day I am more and more convinced that I made the right choice when I started self-learning in the Front-end field.
 
 ## Skills
-----
+
 HTML
 CSS/SASS
 Git
@@ -31,7 +31,7 @@ JavaScript (Basic)
 
 
 ## Code Example
-----
+
 Task: *reverse number*
 ```
 function reverse (num) {
@@ -46,15 +46,15 @@ function reverse (num) {
  reverse(-250)
 ```
 ## Work Experience
-----
+
 Just educating
 
 ## Education
-----
+
 University: Sochi Institute of Economics and Information Technology, System engineer.
 
 ## Courses:
-----
+
 Udemy JavaScript
 
 JavaScript https://learn.javascript.ru/
@@ -64,7 +64,7 @@ GOIT HTML CSS
 Many video courses on YouTube
 
 ## Languages:
-----
+
 Russian - Native
 
 English - A2 
